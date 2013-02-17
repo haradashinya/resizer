@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import PIL.Image
 import os
 import sys
